@@ -1,2 +1,2 @@
-Read-Host
 Write-Host "Hello World!"
+Read-Host
